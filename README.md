@@ -9,4 +9,4 @@ It includes the firmware files for MSP430 compiled in CCS on windows.
 The hardware files are included which include the schematic and board layout designed in Eagle 6.4 and hence 
 are not compatible with lower versions.
 
-Happy Tnkering!
+Happy Tinkering!
